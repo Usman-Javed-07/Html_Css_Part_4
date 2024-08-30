@@ -27,9 +27,9 @@ body{
 
     /* transform: skew(-15deg); */
 
-    /* transform: translate(45px ,45px); */
+    transform: translate(45px ,45px);
 
     /* transform: rotate(45deg)  translateX(50px) ; */
     
-    transform: translateX(50px) rotate(45deg) ;
+    /* transform: translateX(50px) rotate(45deg) ; */
 }
